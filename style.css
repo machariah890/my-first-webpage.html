@@ -1,0 +1,20 @@
+<head>
+  <title>My first webpage!</tittle>
+  <link href+"css/styles.css" rel="stylesheet" type="text/css">
+</head>
+</body>
+  h1 {
+    color: blue;
+    text-align:center;
+  }
+  h2 {
+    color:green
+    font-style:italic;
+    text-align:centre;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+  }
